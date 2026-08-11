@@ -3,8 +3,8 @@
 
 module.exports = {
 
-    BOT_NAME: 'Melon',
-    BOT_TOKEN: 'MTM5MDY2Mzg3NzU0NDUwOTU4MA.GygZd0.uFaM4y32MfuyhMyxi5mhIlRWQQYkxYfQe_04qE',
+    BOT_NAME: 'Nightmare',
+    BOT_TOKEN: process.env.BOT_TOKEN,
     CLIENT_ID: '1390663877544509580',
     OWNER_ID: '1124248109472550993', // owner-only commands
 
@@ -12,10 +12,10 @@ module.exports = {
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
-        activity: '.help | @Melon >3'
+        activity: '.help | @Nighmare & Made By Rc'
     },
 
-    SUPPORT_SERVER: 'https://discord.gg/aerox',
+    SUPPORT_SERVER: 'https://discord.gg/jWARPSmvD',
 
     DATABASE_URL: process.env.DATABASE_URL || 'postgresql://neondb_owner:npg_0sb7MUxrtugy@ep-little-water-adb9fuko.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require',
 
