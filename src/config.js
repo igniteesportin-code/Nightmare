@@ -6,13 +6,13 @@ module.exports = {
     BOT_NAME: 'Nightmare',
     BOT_TOKEN: process.env.BOT_TOKEN,
     CLIENT_ID: '1390663877544509580',
-    OWNER_ID: '1124248109472550993', // owner-only commands
+    OWNER_ID: '1510291022578716903', // owner-only commands
 
     PREFIX: ',', // default text command prefix
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
-        activity: '.help | @Nighmare & Made By Rc'
+        activity: '.help | Made By Rc'
     },
 
     SUPPORT_SERVER: 'https://discord.gg/jWARPSmvD',
