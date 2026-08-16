@@ -1,5 +1,5 @@
-// © Author: itsfizys
-// https://discord.gg/aerox
+// © Author: Rc
+// https://discord.gg/t4Ef7QJeA
 
 
 
@@ -384,7 +384,7 @@ module.exports = {
         container
             .addSeparatorComponents(new SeparatorBuilder().setSpacing(SeparatorSpacingSize.Small).setDivider(true))
             .addTextDisplayComponents(
-                new TextDisplayBuilder().setContent('-# Powered By AeroX Devs')
+                new TextDisplayBuilder().setContent('-# Powered By CypherX Rc')
             );
 
         const reply = await interactionOrMessage.reply({
@@ -423,7 +423,7 @@ module.exports = {
                 newContainer
                     .addSeparatorComponents(new SeparatorBuilder().setSpacing(SeparatorSpacingSize.Small).setDivider(true))
                     .addTextDisplayComponents(
-                        new TextDisplayBuilder().setContent('-# Powered By AeroX Devs')
+                        new TextDisplayBuilder().setContent('-# Powered By CypherX Rc')
                     );
             }
 
