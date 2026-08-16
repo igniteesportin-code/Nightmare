@@ -1,4 +1,4 @@
-// © Author: itsfizys
+// © Author: rc
 // https://discord.gg/zWT89xRZM8
 
 module.exports = {
@@ -83,10 +83,10 @@ CRITICAL - DO NOT DO THESE:
 };
 
 /**
- * Project: Melon
- * Author: itsfizys (Aegis)
- * Organization: AeroX Development
+ * Project: Cypher
+ * Author: Rc
+ * Organization: Cypher Development
  * GitHub: https://github.com/itsfizys
  * License: Custom
- * © 2026 AeroX Development. All rights reserved.
+ * © 2026 Cypher Development. All rights reserved.
  */
