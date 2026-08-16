@@ -3,7 +3,7 @@
 
 module.exports = {
 
-    BOT_NAME: 'Nightmare',
+    BOT_NAME: 'CypherX',
     BOT_TOKEN: process.env.BOT_TOKEN,
     CLIENT_ID: '1390663877544509580',
     OWNER_ID: '1510291022578716903', // owner-only commands
